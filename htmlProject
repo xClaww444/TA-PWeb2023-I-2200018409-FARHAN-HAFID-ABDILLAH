@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Profil Saya</title>
+  </head>
+  <body>
+    <Center>
+    <h1>Profil Saya</h1>
+    <img src="han.jpeg" alt="Foto Profil" height="300">
+  </Center>
+    <h2>Data Diri</h2>
+    <p>Nama: Farhan Hafid A</p>
+    <p>Alamat: Ciamis,Jawa Barat</p>
+    <p>Email: farhanhafid19@gmail.com.com</p>
+    <h2>JEJAK STUDI</h2>
+    <ul>
+      <li>SD NEGRI 1 SELACAI</li>
+      <li>SMP TERPADU ARRISALAH</li>
+      <li>SMA 2 CIAMIS</li>
+      <li>UNIVERSITAS AHMAD DAHLAN</li>
+    </ul>
+    <h2>SOSIAL MEDIA</h2>
+    <ul>
+      <li><a href="https://www.instagram.com/frhhaannn/?hl=id">INSTAGRAM</a></li>
+      <li><a href="https://twitter.com/farhanhafid2">TWITTER</a></li>
+    </ul>
+  </body>
+</html>
