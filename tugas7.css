@@ -1,0 +1,108 @@
+header {
+  background-color: #3E54AC;
+  color: #fff;
+  padding: 15px;
+}
+
+h1{
+  margin: 0;
+  font-size: 36px;
+  font-family: sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body {
+  background-image: url('bg5.gif');
+  background-size: 100%;
+  background-position: auto;
+}
+
+.form-container {
+  max-width: 500px;
+  max-height: auto;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+img {
+  size: 80px;
+  max-width: 600%;
+  height: auto;
+  margin-bottom: 20px;
+  margin-left: 90px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+button[type="button"] {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #3E54AC;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="button"]:hover {
+  background-color: #3E54AC;
+}
+
+/* Styling for result */
+#result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #3E54AC;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  background-color: #3E54AC;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+}
+
+
+
+
+
+
